@@ -6,7 +6,7 @@ import pydeck as pdk
 import plotly.express as px
 import altair as alt
 
-URL = ("/Users/Dell/zom.csv")
+URL = ("zom.csv")
 
 st.markdown("## 𝓩𝓸𝓶𝓪𝓽𝓸, 𝓽𝓸 𝓽𝓱𝓮 𝔀𝓸𝓻𝓵𝓭 𝓬𝓾𝓲𝓼𝓲𝓷𝓮𝓼")
 st.markdown("###### All you can know here about ✎Cost ✎Address ✎Rating ✎Review ✎Location ✎Currency ✎Cuisines ✎Votes")
